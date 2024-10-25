@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+ }
+ h2 {
+  color: white;
+   }
+p {
+  color: rebeccapurple;
+}
+header {
+  border-color: red;
+  }
+img {
+width: 30%;
+height: 50%;
+}
+
